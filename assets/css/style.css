@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+
+.app{
+    height : 100vh;
+    display : flex;
+    justify-items: space-evenly;
+    align-items : center;
+}
+
+.timer
+.sound-picker{
+    height: 80%;
+    flex: 1;
+}
+
+.timer{
+    background-color: aqua;
+}
+
+.sound-picker{
+    background-color: bisque;
+}
