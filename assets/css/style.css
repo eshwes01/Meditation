@@ -13,14 +13,16 @@
 
 .timer
 .sound-picker{
-    height: 80%;
+    height: 50%;
     flex: 1;
 }
 
 .timer{
-    background-color: aqua;
+    background: aqua;
+    color:brown;
 }
 
 .sound-picker{
-    background-color: bisque;
+    background: bisque;
+    color:blue;
 }
